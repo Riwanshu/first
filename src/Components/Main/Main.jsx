@@ -64,7 +64,9 @@ const Main = () => {
               </div>
             </div>
           )}
-
+          <br />
+          <br />
+          <br />
           <div className="main-bottom">
             <div className="search-box">
               <input
